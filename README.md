@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on resources for PLCnext. Including examples, libraries and training.
+- 🌱 I’m currently learning C++
+- 💬 Ask me about [PLCnext](https://www.phoenixcontact.com/en-au/products/plcnext-technology)
+- 📫 How to reach me: dscott at phoenixcontact.com.au
 <!--
 **declan-pxc/declan-pxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
